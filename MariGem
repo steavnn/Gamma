@@ -61,7 +61,7 @@ class Dragon:
 
 
 class Flames:
-    flames_velocity = 20
+    flames_velocity = 10
 
     def __init__(self):
         self.flames = pygame.image.load('fireball.png')
