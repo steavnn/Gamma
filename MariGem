@@ -33,7 +33,7 @@ topscore = Topscore()
 
 
 class Dragon:
-    dragon_velocity = 10
+    dragon_velocity = 20
 
     def __init__(self):
         self.dragon_img = pygame.image.load('dragon.png')
